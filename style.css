@@ -1,0 +1,80 @@
+html {
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(144, 134, 122);
+}
+
+.headerTitle
+{
+    text-align: center;
+    font-size: 5rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+header
+{
+    min-height: 6rem;
+    min-width: 30em;
+    background-color:bisque;
+    border: 3px solid;
+    border-radius: 20px;
+}
+
+.formclass
+{
+    padding: 3em 1em;
+    
+}
+
+.textbox
+{
+    background-color: blanchedalmond;
+    font-size: 2em;
+    border-radius: 1em;
+}
+
+.btn
+{
+    font-size: 2em;
+    border-radius: 1em;
+    background-color: bisque;
+}
+
+.topRes{
+    display: none;
+    
+    
+}
+
+.topResStyle
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 3em;
+    margin-left: 0.3em;
+}
+
+
+
+.bd
+{
+    display: flex;
+    margin-top: 1em;
+    margin-left: 0.5em;
+    /* font-size: 2em; */
+    
+}
+
+
+.info
+{
+    position: relative;
+    font-size: 5em;
+    bottom: 4em;
+    left: 0.5em;
+    /* height: 34em; */
+    background-color: bisque;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
